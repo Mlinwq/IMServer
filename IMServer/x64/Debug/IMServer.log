@@ -1,0 +1,21 @@
+﻿  CKernel.cpp
+F:\科林\网络新\IMServer\IMServer\CKernel.cpp(185,22): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+F:\科林\网络新\IMServer\IMServer\CKernel.cpp(206,23): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+F:\科林\网络新\IMServer\IMServer\CKernel.cpp(214,23): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+F:\科林\网络新\IMServer\IMServer\CKernel.cpp(262,23): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+F:\科林\网络新\IMServer\IMServer\CKernel.cpp(298,24): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+F:\科林\网络新\IMServer\IMServer\CKernel.cpp(347,23): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+F:\科林\网络新\IMServer\IMServer\CKernel.cpp(381,24): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+  main.cpp
+  TcpClientMediator.cpp
+  TcpServerMediator.cpp
+  UdpMediator.cpp
+  CMySql.cpp
+  TcpClientNet.cpp
+F:\科林\网络新\IMServer\IMServer\net\TcpClientNet.cpp(156,31): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+  TcpServerNet.cpp
+F:\科林\网络新\IMServer\IMServer\net\TcpServerNet.cpp(207,31): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+  UdpNet.cpp
+F:\科林\网络新\IMServer\IMServer\net\UdpNet.cpp(146,27): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+  正在生成代码...
+  IMServer.vcxproj -> F:\科林\网络新\IMServer\x64\Debug\IMServer.exe
