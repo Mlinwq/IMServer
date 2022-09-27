@@ -3,7 +3,7 @@
 #define _DEF_BUFFER_SIZE (4096)
 #define _DEF_NAME_SIZE (60)
 #define _DEF_CONTENT_SIZE (1024)
-#define _DEF_SERVER_IP ("192.168.31.78")
+#define _DEF_SERVER_IP ("10.71.45.184")
 #define _DEF_TCP_PORT (9988)
 #define _DEF_MAX_SIZE (100)
 #define _DEF_PROTOCAL_COUNT (100)
